@@ -19,7 +19,7 @@
 #define INDEX_FILENAME ".roms.idx"
 
 // Frame Skip 4 (Draw 1, Skip 4)
-#define FRAME_SKIP_COUNT 6  // set 4 if sound enabled
+#define FRAME_SKIP_COUNT 5  // set 4 if sound enabled
 
 #include <Arduino.h>
 #include <stdint.h>
